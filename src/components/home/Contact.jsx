@@ -39,15 +39,12 @@ export default function Contact() {
                 <div className="lg:col-span-7">
                     <div className="rounded-3xl border border-zinc-200 bg-white p-7 shadow-sm">
                         <h3 className="text-lg font-semibold">Форма запиту</h3>
-                        <p className="mt-2 text-sm text-zinc-600 leading-relaxed">
-                            Демо-режим: submit показує повідомлення.
-                        </p>
 
                         <form
                             className="mt-6 grid gap-4"
                             onSubmit={(e) => {
                                 e.preventDefault();
-                                alert("Демо: підключи форму до бекенду/API для реальної відправки.");
+                                alert("Uups, there is no backend yet");
                             }}
                         >
                             <div className="grid gap-4 sm:grid-cols-2">

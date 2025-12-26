@@ -7,7 +7,6 @@ export default function Footer() {
                         <div className="h-9 w-9 rounded-xl bg-zinc-900" />
                         <div>
                             <div className="text-sm font-semibold">LOGITEX</div>
-                            <div className="text-xs text-zinc-500">Демо Next.js / Tailwind</div>
                         </div>
                     </div>
 
