@@ -38,9 +38,9 @@ export default function Hero() {
                         </div>
 
                         <div className="mt-10 grid grid-cols-2 sm:grid-cols-3 gap-3">
-                            <Stat label="Фокус" value="Надчисті технології" />
-                            <Stat label="Напрям" value="Автоматизація" />
-                            <Stat label="Підтримка" value="Сервіс" />
+                            <Stat value="Надчисті технології" />
+                            <Stat value="Автоматизація" />
+                            <Stat value="Сервіс" />
                         </div>
                     </div>
 

@@ -15,9 +15,6 @@ export default function Contact() {
                 <div className="lg:col-span-5">
                     <div className="rounded-3xl border border-zinc-200 bg-white p-7 shadow-sm">
                         <h3 className="text-lg font-semibold">Контакти</h3>
-                        <p className="mt-2 text-sm text-zinc-600 leading-relaxed">
-                            Замінити на реальні дані компанії.
-                        </p>
 
                         <div className="mt-6 space-y-3 text-sm">
                             <div className="rounded-2xl border border-zinc-200 bg-zinc-50 px-4 py-3">
